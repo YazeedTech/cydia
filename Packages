@@ -12,3 +12,12 @@ SHA256: b89c8654efa1f0a1edac046584b26b522d92a48de54eae649bcec27e08369038
 Section: Addons
 Depiction: ملف تعريب للأداة مباشرة من دون الحاجة لإضافة أي أدوات
 Name: تعريب أداة Dotto+
+
+Package: com.yourepo.ya7yajb.shuffle
+Name: shuffle ن
+Version: 5.0.6
+Architecture: iphoneos-arm
+Description: ملف لتعريب الاداة مباشرة من غير الحاجة الى تحميل اي ادوات
+Author: @SweetRhomh <themoon@gmail.com>
+Section: Localization
+Maintainer: @SweetRhomh <themoon@gmail.com>
