@@ -1,1 +1,10 @@
-
+Package: com.yourepo.yazeedtech.dotto+
+Name: تعريب أداة Dotto+
+Version: 1.0
+Section: Addons
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Installed-Size: 40976
+Author: YazeedTech
+Maintainer: YazeedTech
+Description: ملف تعريب للأداة مباشرة من دون الحاجة لإضافة أي أدوات
