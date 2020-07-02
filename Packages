@@ -1,18 +1,13 @@
-Package: me.conorthedev.dotto+
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: YazeedTech
-Author: YazeedTech
-Depends:  firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker 		
-Filename: debs/me.conorthedev.dotto+_1.0_iphoneos-arm.deb	
-Installed-Size: 40976	
-MD5sum: a3395e268fd05742296422b676d056e0	
-SHA1: 040f6c9c494b79097b6da75e227132fed2588800	
-SHA256: b89c8654efa1f0a1edac046584b26b522d92a48de54eae649bcec27e08369038	
-Section: Addons
-Depiction: ملف تعريب للأداة مباشرة من دون الحاجة لإضافة أي أدوات
+Package: com.yazeedtech.dotto+
 Name: تعريب أداة Dotto+
-
+Version: 1.0
+Section: Addons
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Installed-Size: 40976
+Author: YazeedTech
+Maintainer: YazeedTech
+Description: ملف تعريب للأداة مباشرة من دون الحاجة لإضافة أي أدوات
 Package: com.yourepo.ya7yajb.shuffle
 Name: shuffle ن
 Version: 5.0.6
