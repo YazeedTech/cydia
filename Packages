@@ -1,11 +1,11 @@
-Package: io.github.yazeedtech.sonus13
+Package: com.yazeedtech.sonus13
 Name: تعريب أداة Sonus13
 Version: 1.0
 Section: Addons
 Architecture: iphoneos-arm
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
 Installed-Size: 40976
-File: deb/io.github.yazeedtech.sonus13_1.0_iphoneos-arm.deb
+File: deb/com.yazeedtech.sonus13_1.0_iphoneos-arm.deb
 Author: YazeedTech
 Maintainer: YazeedTech
 Description: ملف تعريب للأداة من دون الحاجة لإضافة أي أدوات ، يجب ان يكون الجهاز باللغة العربية حتى يعمل ملف التعريب بشكل صحيح
