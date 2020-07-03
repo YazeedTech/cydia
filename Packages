@@ -8,11 +8,17 @@ Installed-Size: 40976
 Author: YazeedTech
 Maintainer: YazeedTech
 Description: ملف تعريب للأداة مباشرة من دون الحاجة لإضافة أي أدوات
-Package: com.yourepo.ya7yajb.shuffle
-Name: shuffle ن
-Version: 5.0.6
+
+Package: me.conorthedev.dotto+
+Version: 1.0
 Architecture: iphoneos-arm
-Description: ملف لتعريب الاداة مباشرة من غير الحاجة الى تحميل اي ادوات
-Author: @SweetRhomh <themoon@gmail.com>
-Section: Localization
-Maintainer: @SweetRhomh <themoon@gmail.com>
+Maintainer: YazeedTech
+Depends:  mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.alderis | org.thebigboss.libcolorpicker 		
+Filename: deb/me.conorthedev.dotto+_1.0_iphoneos-arm.deb	
+Size: 40976	
+MD5sum: a3395e268fd05742296422b676d056e0	
+SHA1: 040f6c9c494b79097b6da75e227132fed2588800
+SHA256: b89c8654efa1f0a1edac046584b26b522d92a48de54eae649bcec27e08369038	
+Section: Addons
+Depiction: https://yazeedtech.github.io/repo	Depiction: https://repo.dynastic.co/package/me.conorthedev.dotto+
+Name: تعريب أداة Dotto+
