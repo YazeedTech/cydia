@@ -4,10 +4,15 @@ Version: 1.0
 Section: Addons
 Architecture: iphoneos-arm
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
-Installed-Size: 40976
+Size: 40976
 Author: YazeedTech
 Maintainer: YazeedTech
 Description: ملف تعريب للأداة مباشرة من دون الحاجة لإضافة أي أدوات
+MD5sum: f2b3c44246edb7ac7ed4e621c4b5b69d
+SHA1: 74d9b77f61359c0b93533980aac07b8b2475fd84
+SHA256: ebfb85ddf25d881bb13a8b0d7728bb875fc6b41c8cc81862c4c63c6174b021a4
+Depiction: https://yazeedtech.github.io/repo
+Filename: deb/com.yazeedtech.dotto+_1.0_iphoneos-arm.deb
 
 Package: me.conorthedev.dotto+
 Version: 1.0
